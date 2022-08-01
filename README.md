@@ -1,2 +1,2 @@
-# figma-site-demo
+# figma-site-practice
 Created with CodeSandbox
